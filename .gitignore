@@ -1,0 +1,10 @@
+# 缓存
+**/__pycache__
+
+# IDE配置文件
+.idea
+
+# 中间文件：从二进制图片中提取的特征、由二进制文件恢复成的jpg图片、生成的混淆矩阵及ROC曲线图
+data/my_eigenfaces
+data/restored_data
+image
